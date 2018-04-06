@@ -3,7 +3,7 @@ package com.arseniit.mail;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-public class SmtpMailSender implements MailSender{
+public class SmtpMailSender implements MailSender {
 
     private static Log log = LogFactory.getLog(SmtpMailSender.class);
 
